@@ -26,12 +26,12 @@ The expected minimum amount of time each Sprint for each category is as follows:
 
 |Date      |Start Time|Category|Description                                 |Total Minutes|
 |----------|----------|:------:|--------------------------------------------|:-----------:|
-|     11/16/26     |   1 PM       |   IM     | setup github|      60       |
-|  11/17/26 |  1PM |    IM    |started main file and created mainmenu | 120 |
-|  11/19/26  | 11:00|  IM |  Wrote first file and debugged program.  |  120 |
-|  11/21/26  |  3 PM  |  IM  |    Implemented account tracking   |   120  |
-|   11/23/26 |  2PM  |  IM |     Debugged Menu and had  tracker working |  60 |
-|   11/26/26   | 3PM  |  IM |   convreted all numbers into readable decimal   |  120  |
+|     11/16/26     |   1 PM       |   IM     | Set up GitHub repository and Python/SQLite development environment|      60       |
+|  11/17/26 |  1PM |    IM    |Created main Python file and Movie Collection Manager menu| 120 |
+|  11/19/26  | 11:00|  IM |  Created SQLite database and movies table; implemented viewing and adding movies.  |  120 |
+|  11/21/26  |  3 PM  |  IM  |    Implemented SQL update and delete operations for movie records   |   120  |
+|   11/23/26 |  2PM  |  IM |     Debugged Menu and had  tested databse |  60 |
+|   11/26/26   | 3PM  |  IM |   Improved movie information formatting and tested rating inputs   |  120  |
 |   11/20/26  |  1PM  | TP   |     Wrote into of budget class      |   60   |
 |  11/22/26  |  5 PM   |  TP   |     debugged     |      60    |
 |   11/23/26 |   6 PM    |  TP  |    worked on getting HTML to work |    60    |
