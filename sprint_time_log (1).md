@@ -32,10 +32,10 @@ The expected minimum amount of time each Sprint for each category is as follows:
 |  11/21/26  |  3 PM  |  IM  |    Implemented SQL update and delete operations for movie records   |   120  |
 |   11/23/26 |  2PM  |  IM |     Debugged Menu and had  tested databse |  60 |
 |   11/26/26   | 3PM  |  IM |   Improved movie information formatting and tested rating inputs   |  120  |
-|   11/20/26  |  1PM  | TP   |     Wrote into of budget class      |   60   |
+|   11/20/26  |  1PM  | TP   |     debugged budget class      |   60   |
 |  11/22/26  |  5 PM   |  TP   |     debugged     |      60    |
-|   11/23/26 |   6 PM    |  TP  |    worked on getting HTML to work |    60    |
-|  11/24/26  |   6 PM   |  TP |    started tracker class    |    60    |
+|   11/23/26 |   6 PM    |  TP  |    worked on getting textdisplay to work |    60    |
+|  11/24/26  |   6 PM   |  TP |    edited tracker class    |    60    |
 |  11/16/26  |  10:15|  MTG   |  Module Planning Meeting | 60 |
 |  11/18/26  |  10:15|  MTG   |  Team Stand up Meeting | 60 |
 |  11/25/26  |  10:15|  MTG   |  Team Sprint Presentation Meeting | 60 |
